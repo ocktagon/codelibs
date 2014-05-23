@@ -1,0 +1,17 @@
+FEATURE: Codelibs
+
+A user knows 
+
+
+User Stories
+As a user, I want to access github and clone ruby documents to my computer
+As a user, I want to be able to work on Ruby challenges
+
+As a user, I want to play with an easy puzzle
+As a user, I want to view all puzzles available
+As a user, I want to choose difficulty of puzzle
+As a user, I want to choose style of puzzle
+As a user, I want to get feedback when I make a mistake 
+As a user, I want to know which puzzles I've completed
+
+

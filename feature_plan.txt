@@ -1,17 +1,27 @@
 FEATURE: Codelibs
 
-A user knows 
+USER STORIES:
 
+FUTURE RELEASE -- As a user, I want to access github and clone ruby documents to my computer
+FUTURE RELEASE -- As a user, I want to be able to work on Ruby challenges
 
-User Stories
-As a user, I want to access github and clone ruby documents to my computer
-As a user, I want to be able to work on Ruby challenges
+As a user, I want to access Code_Libs through the terminal
 
-As a user, I want to play with an easy puzzle
-As a user, I want to view all puzzles available
-As a user, I want to choose difficulty of puzzle
-As a user, I want to choose style of puzzle
-As a user, I want to get feedback when I make a mistake 
-As a user, I want to know which puzzles I've completed
+FUTURE RELEASE -- As a user, I want to choose which coding language to use from limited multiple choices (e.g., Ruby, JavaScript)
 
+As a user, I want to choose my difficulty level from limited multiple choices (e.g., easy, medium)
+
+FUTURE RELEASE -- As a user, I want to view all puzzles available at that diffulty level and language chosen  
+
+As a user, I want to choose the style of puzzle (e.g., "learn to manipulate arrays.", "Learn to create an object." )
+
+As a user, I want to view questions related to the language and difficulty level and be prompted for an answer in either multiple choice format or blank-input format (e.g., )
+
+As a user, I want to receive feedback after submitting my answer:
+	As a user, I want to be able to resubmit an answer if original answer was incorrect;
+	As a user, I want to move on to the next question in the challenge if original answer was correct.
+
+FUTURE RELEASE -- As a user, I want to know which puzzles I've completed correctly and receive final feedback with scoring (e.g., "You got three of five questions correct!").
+
+FUTURE RELEASE -- As a user, I want to be prompted to move on to next challenge or repeat to improve my score.
 
